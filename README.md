@@ -49,34 +49,34 @@ We focused on the core performance metric — **Hours Per Resident Day (HPRD)** 
 ## 📈 Visual Insights  
 
 ### 1️⃣ Distribution of HPRD  
-![Chart 1](charts_output/chart1_overall_hprd_distribution.png)  
+![Chart 1](chart1_overall_hprd_distribution.png)  
 
 ### 2️⃣ Staffing Mix by Role  
-![Chart 2](charts_output/chart2_staffing_mix_by_role.png)  
+![Chart 2](chart2_staffing_mix_by_role.png)  
 
 ### 3️⃣ Average HPRD by State  
-![Chart 3](charts_output/chart3_statewise_hprd.png)  
+![Chart 3](chart3_statewise_hprd.png)  
 
 ### 4️⃣ Facility Operational Outliers  
-![Chart 4](charts_output/chart4_operational_outliers_improved.png)  
+![Chart 4](chart4_operational_outliers_improved.png)  
 
 ### 5️⃣ Daily Trends Over Quarter  
-![Chart 5](charts_output/chart5_trend_over_time_with_labels.png)  
+![Chart 5](chart5_trend_over_time_with_labels.png)  
 
 ### 6️⃣ Facility Size vs Efficiency  
-![Chart 6](charts_output/chart6_facility_size_vs_hprd.png)  
+![Chart 6](chart6_facility_size_vs_hprd.png)  
 
 ### 7️⃣ Weekend vs Weekday Patterns  
-![Chart 7](charts_output/chart7_weekend_vs_weekday_hprd.png)  
+![Chart 7](chart7_weekend_vs_weekday_hprd.png)  
 
 ### 8️⃣ Data Integrity (Provider ID Comparison)  
-![Chart 8](charts_output/chart8_missing_providerid_comparison_labeled.png)  
+![Chart 8](chart8_missing_providerid_comparison_labeled.png)  
 
 ### 9️⃣ RN-to-CNA Ratio by State  
-![Chart 9](charts_output/chart9_rn_to_cna_ratio_by_state.png)  
+![Chart 9](chart9_rn_to_cna_ratio_by_state.png)  
 
 ### 🔟 Q1 2025 Key Metrics Summary  
-![Chart 10](charts_output/chart10_q1_trend_summary.png)  
+![Chart 10](chart10_q1_trend_summary.png)  
 
 ---
 
