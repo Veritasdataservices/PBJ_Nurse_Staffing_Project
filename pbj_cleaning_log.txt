@@ -1,0 +1,11 @@
+PBJ Nurse Staffing Q1 2025 – Final Processed Dataset
+Saved on: 2025-10-27 05:45:58
+
+✔ All columns verified and properly typed
+✔ 0 duplicate facility-date combinations
+✔ 14,760 rows missing Provider IDs (Has_Provider_ID flag)
+✔ 782 rows with zero residents (Census_Status flag)
+✔ 13,158 high-hour facility days (Hour_Outlier_Flag)
+✔ HPRD_Total recalculated safely (no divide-by-zero)
+✔ No negative values in numeric columns
+✔ Dataset validated and saved for analysis
