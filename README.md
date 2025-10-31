@@ -9,7 +9,7 @@ Transforming Data into Clarity, Strategy, and Measurable Growth.
 ## 📁 Dataset Information  
 This project uses the **CMS Payroll-Based Journal (PBJ)** dataset for **Quarter 1 of 2025**, covering over **1.3 million daily staffing records** across U.S. nursing facilities.  
 
-Due to GitHub’s upload limits, a reduced sample dataset (`pbj_sample.csv`) is stored in the **/processed** folder.  
+Due to GitHub’s upload limits, a reduced sample dataset (`pbj_sample.csv`) is stored in one of the files.  
 This version maintains the same schema and representative distribution as the full dataset, ensuring reproducibility for learning and analysis.  
 
 ---
@@ -113,3 +113,4 @@ This analysis was conducted by **Veritas Data Services**, an independent data co
 ---
 
 © 2025 Veritas Data Services — All Rights Reserved.
+
