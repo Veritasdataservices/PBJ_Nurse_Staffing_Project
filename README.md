@@ -244,9 +244,10 @@ This Q1 2025 PBJ dataset reveals a consistent set of operational realities and r
 # Tableau Dashboards (static screenshots)
 These dashboards provide interactive views of the trends summarized above and are included as static PNG snapshots below.
 
-![](Dashboard 1.png)  
-![](Dashboard 2.png)  
-![](Dashboard 3.png)
+![](Dashboard%201.png)
+ ![](Dashboard%202.png)
+ ![](Dashboard%203.png)
+
 
 ---
 
@@ -260,4 +261,5 @@ These dashboards provide interactive views of the trends summarized above and ar
 ## Author & License
 **Veritas Data Services** — PBJ Nurse Staffing Analysis (Q1 2025)  
 © 2025 Veritas Data Services — All Rights Reserved
+
 
