@@ -1,11 +1,13 @@
 
 # PBJ Nurse Staffing Analysis (Q1 2025)
 ### Veritas Data Services
+(**Lead Data Analyst - Sharon Kadzo Mwandoe**
 
 This repository contains a comprehensive analysis of daily nurse staffing patterns across U.S. nursing facilities for Quarter 1 (January–March) 2025 using Payroll-Based Journal (PBJ) data. The analysis uses more than 1.3 million daily records and focuses on staffing levels, staffing mix, operational rhythms, reporting quality, and care delivery signals important to providers and regulators.
 
-For a more detailed analysis,findings and code please check this file in this repository **PBJ_Daily Nurse Staffing_Q12025.ipynb**
-for cleaning process and steps of the Massive dataset kindly check this file in the files in this repository **pbj_cleaning_log.txt**
+For a more detailed analysis,findings and code please check this file in this repository **PBJ_Daily Nurse Staffing_Q12025.ipynb**.
+
+ Cleaning process and steps of the dataset from dirty to clean and ready for Analysis kindly check this file in this repository **pbj_cleaning_log.txt**
 
 ---
 
@@ -262,8 +264,10 @@ These dashboards provide interactive views of the trends summarized above and ar
 ---
 
 ## Author & License
+**Sharon Kadzo Mwandoe - Lead Data Analyst**
 **Veritas Data Services** — PBJ Nurse Staffing Analysis (Q1 2025)  
 © 2025 Veritas Data Services — All Rights Reserved
+
 
 
 
