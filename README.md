@@ -267,9 +267,8 @@ These dashboards provide interactive views of the trends summarized above and ar
 **Sharon Mwandoe - Lead Data Analyst**
 **Veritas Data Services** — PBJ Nurse Staffing Analysis (Q1 2025) 
 
-##### Veritas Data Services — Operated by *Aletheia Veritas Analytics Services © 2025*
+##### Veritas Data Services — Operated by *Aletheia Veritas Analytics Services © 2025* All Rights Reserved.
 
- ##### Registered in Kenya. All Rights Reserved.
 
 
 
